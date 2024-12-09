@@ -1,4 +1,4 @@
-password = "spsm"
+password = "something-else"
 
 input_password = input("Please enter your password: ")
 
